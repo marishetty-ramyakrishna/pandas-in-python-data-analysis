@@ -217,7 +217,7 @@ The goal of this repository is to provide a practical introduction to Pandas and
 
 ## 📝 Article
 
-This repository is based on the Medium article:
+This repository is based on the Medium article:[ https://medium.com/@ramyakrishnamarishetty27/pandas-in-python-your-datas-best-friend-0151ad09c962?sharedUserId=ramyakrishnamarishetty27 ]
 
 **Pandas in Python: Your Data's Best Friend**
 
